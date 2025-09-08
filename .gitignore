@@ -1,0 +1,32 @@
+# Updater files
+updater.py
+#update.exe
+updater_config.json
+
+# Build files
+build.py
+build/
+dist/
+*.spec
+
+# Backup directories
+backup_*/
+
+# Downloaded files
+*.zip
+Roblox-Passworf-Reset*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+UPDATER_GUIDE.md
